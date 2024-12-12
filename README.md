@@ -1,8 +1,3 @@
----
-# Copyright Notice
-All rights reserved. This code is proprietary and may not be copied, distributed, or used without explicit permission from the owner.
----
-
 # Bike Wishlist Command-Line Application for Database Interaction
 **Author:** Michael R. Martin
 
@@ -45,3 +40,7 @@ This project utilizes the following libraries and tools for securely connecting 
 2. **`getpass`**: Library for securely prompting and handling password input from users.
    - Masks the password during input to maintain security.
 3. **`msvcrt`** ``(Windows-only)``: Provides access to system-level utilities, specifically used here for handling keypress events without requiring the Enter key.
+
+---
+All rights reserved. Files provided in this repository are proprietary and may not be copied, distributed, or used without explicit permission from the owner.
+---
