@@ -1,3 +1,8 @@
+---
+# Copyright Notice
+All rights reserved. This code is proprietary and may not be copied, distributed, or used without explicit permission from the owner.
+---
+
 # Bike Wishlist Command-Line Application for Database Interaction
 **Author:** Michael R. Martin
 
